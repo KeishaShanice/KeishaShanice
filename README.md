@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for help with **Swift and JS Algorithms**
-
 - 📝 I regularly write articles on [https://dev.to/codeteasleep](https://dev.to/codeteasleep)
 
 - 💬 Ask me about **anything**
