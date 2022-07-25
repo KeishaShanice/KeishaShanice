@@ -24,7 +24,7 @@
       <h3 align="center">Unit Converter</h3>
         <br />
         <a target="_blank" href="https://keishashanice.github.io/unitConverter/">
-            <img src="https://media.giphy.com/media/Nnqp27E2z3lnP1Hrdz/giphy.gif" width="100%" height="400"  alt="Unit Converter"/>
+            <img src="https://media.giphy.com/media/Nnqp27E2z3lnP1Hrdz/giphy.gif" width="100%" height="350"  alt="Unit Converter"/>
         </a>
         <br />
         <p align="center">
