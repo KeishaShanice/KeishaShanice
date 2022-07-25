@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 🙋🏾‍♀️, I'm Shanice</h1>
-<h3 align="center">A passionate Frontend Developer with a deep interest in changing lives with XR.</h3>
+<h3 align="center">A passionate Frontend Developer with a deep interest in changing lives through XR.</h3>
 
 <p align="left"> <a href="https://twitter.com/codeteasleep" target="blank"><img src="https://img.shields.io/twitter/follow/codeteasleep?logo=twitter&style=for-the-badge" alt="codeteasleep" /></a> </p>
 
