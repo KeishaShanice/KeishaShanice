@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 🙋🏾‍♀️, I'm Shanice</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A passionate Frontend Developer with a deep interest in changing lives with XR.</h3>
 
 <p align="left"> <a href="https://twitter.com/codeteasleep" target="blank"><img src="https://img.shields.io/twitter/follow/codeteasleep?logo=twitter&style=for-the-badge" alt="codeteasleep" /></a> </p>
 
@@ -14,6 +14,51 @@
 - 📝 I regularly write articles on [https://dev.to/codeteasleep](https://dev.to/codeteasleep)
 
 - 💬 Ask me about **anything**
+
+
+<h2 align="center">Latest Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Unit Converter</h3>
+        <br />
+        <a target="_blank" href="https://keishashanice.github.io/unitConverter/">
+            <img src="https://media.giphy.com/media/Nnqp27E2z3lnP1Hrdz/giphy.gif" width="100%" height="430"  alt="Unit Converter"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/KeishaShanice/unitConverter" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://keishashanice.github.io/unitConverter/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML, & CSS</strong> - Enter a number and receive both Metric and Imperial conversions for length, volume, and mass.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Password Generator</h3>
+        <br />
+      <a target="_blank" href="https://keishashanice.github.io/randomPasswordGenerator/">
+            <img src="https://media.giphy.com/media/FdVVtJMZk2AZd6cJta/giphy.gif" width="100%"  alt="password generator"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/KeishaShanice/randomPasswordGenerator" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://keishashanice.github.io/randomPasswordGenerator/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML, & CSS </strong> - Generator 2 random passwords containing either characters, numbers, or symbols.</p>
+    </td>
+  </tr>
+</table> 
+
 
 
 <h3 align="left">Connect with me:</h3>
