@@ -21,10 +21,28 @@
   
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Oldagram</h3>
+        <br />
+        <a target="_blank" href="https://keishashanice.github.io/oldagram/">
+            <img src="https://media.giphy.com/media/cd9sNMxjpHkYvOPSMO/giphy.gif" width="100%" height="400"  alt="Oldagram"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/KeishaShanice/oldagram" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://keishashanice.github.io/oldagram/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, HTML, & CSS</strong> - View the latest posts from your favorite people on this Instagram clone.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Unit Converter</h3>
         <br />
         <a target="_blank" href="https://keishashanice.github.io/unitConverter/">
-            <img src="https://media.giphy.com/media/Nnqp27E2z3lnP1Hrdz/giphy.gif" width="100%" height="350"  alt="Unit Converter"/>
+            <img src="https://media.giphy.com/media/Nnqp27E2z3lnP1Hrdz/giphy.gif" width="100%" height="400"  alt="Unit Converter"/>
         </a>
         <br />
         <p align="center">
@@ -38,6 +56,10 @@
       </p>
         <p><strong>Javascript, HTML, & CSS</strong> - Enter a number and receive both Metric and Imperial conversions for length, volume, and mass.</p>
     </td>
+    
+    
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Password Generator</h3>
         <br />
