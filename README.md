@@ -24,7 +24,7 @@
       <h3 align="center">Simple Life Blog</h3>
         <br />
         <a target="_blank" href="https://keishashanice.github.io/simpleLife">
-            <img src="https://media.giphy.com/media/sjQX5beXz3IOdOV8JG/giphy.gif" width="100%" height="400"  alt="Unit Converter"/>
+            <img src="https://media.giphy.com/media/r0EnQwradxuXU7UEoY/giphy.gif" width="100%" height="400"  alt="Unit Converter"/>
         </a>
         <br />
         <p align="center">          
